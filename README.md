@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Christian <img height="40" src="http://static.skaip.org/img/emoticons/180x180/f6fcff/hi.gif"></h1>
 <h3 align="center"> <em>“First, solve the problem. Then, write the code.”</em> – John Johnson</h3>
 
--📍 I live in Sofia, Bulgaria**
+-📍 I live in **Sofia, Bulgaria**
 
 -📙 I am currently learning **Python**
 
 -📫 How to reach me: **chrisipenev@gmail.com**
 
-- ⚡ What I like to do: **I like coding, playing football and hanging out with friends**
+-⚡ What I like to do: **I like coding, playing football and hanging out with friends**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
