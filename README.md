@@ -11,8 +11,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kris_penev_/)
-  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrisipenev@gmail.com)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kris_penev_/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrisipenev@gmail.com)
 </div>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
