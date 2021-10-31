@@ -5,7 +5,7 @@
 
 -📙 I am currently learning **Python**
 
--📫 How to reach me: **chrisipenev@gmail.com
+-📫 How to reach me: **chrisipenev@gmail.com**
 
 - ⚡ What I like to do: **I like coding, playing football and hanging out with friends**
 
